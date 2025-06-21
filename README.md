@@ -1,2 +1,26 @@
-# cybersecurity-portfolio
-Repositorio personal con laboratorios, write-ups y herramientas relacionadas con ciberseguridad ofensiva y defensiva.
+Ian Solórzano – Cybersecurity Student Portfolio
+
+Hola, soy estudiante de Licenciatura en Ciberseguridad en la Universidad Tecnológica de Panamá. Este portafolio contiene mis prácticas, proyectos, write-ups y recursos relacionados con ciberseguridad ofensiva y defensiva.
+
+## Áreas de interés
+- Análisis de vulnerabilidades
+- Seguridad en la nube (AWS)
+- Respuesta a incidentes
+- Linux, redes, y análisis de logs
+
+## Certificaciones y cursos
+- ISC2 Certified in Cybersecurity (en curso)
+- AWS Cloud Architecting (en curso)
+- AWS Security Foundations (próximamente)
+- Google, Cisco, Microsoft Fundamentals (completadas)
+
+## Contenido del portafolio
+
+| Sección | Descripción |
+|--------|-------------|
+| `tryhackme/` | Write-ups de laboratorios prácticos |
+| `btlo/` | Análisis de incidentes y defensa |
+| `cloud/` | Notas y recursos sobre AWS y cloud security |
+| `scripts/` | Herramientas simples para pentesting y análisis |
+
+> Este repositorio está en constante crecimiento 🚀
