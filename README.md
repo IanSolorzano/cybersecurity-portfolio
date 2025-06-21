@@ -9,10 +9,10 @@ Hola, soy estudiante de Licenciatura en Ciberseguridad en la Universidad Tecnol�
 - Linux, redes, y análisis de logs
 
 ## Certificaciones y cursos
-- ISC2 Certified in Cybersecurity (en curso)
-- AWS Cloud Architecting (en curso)
-- AWS Security Foundations (próximamente)
-- Google, Cisco, Microsoft Fundamentals (completadas)
+- ISC2 Certified in Cybersecurity 
+- AWS Cloud Architecting
+- AWS Security Foundations
+- Google, Cisco, Microsoft Fundamentals
 
 ## Contenido del portafolio
 
